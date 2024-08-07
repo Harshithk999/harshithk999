@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I’m equally passionate about exploring the latest in tech and automobiles!**
 
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Description of the image">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshith-k-a86283229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshith-k-a86283229" height="30" width="40" /></a>
